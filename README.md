@@ -1,14 +1,14 @@
-Driver Drowsiness Detection
+🚗 Driver Drowsiness Detection
 
-#Technologies: Flask · OpenCV · Keras (CNN)
+Technologies: Flask · OpenCV · Keras (CNN)
 
-#Overview
+🧠 Overview
 
 This project aims to enhance road safety by detecting driver drowsiness in real time.
 Using a webcam, the system monitors the driver’s eyes and uses a Convolutional Neural Network (CNN) to determine whether they are open or closed.
 If the eyes remain closed for a certain duration, an audible alarm is triggered to alert the driver.
 
-#Features
+✨ Features
 
 Real-time video stream analysis using OpenCV
 
@@ -18,9 +18,9 @@ Flask web interface for launching and controlling the system
 
 Automatic alarm trigger when drowsiness is detected
 
-#Tech Stack
+🛠️ Tech Stack
 
-Python 
+Python 3.x
 
 Flask (for web interface)
 
