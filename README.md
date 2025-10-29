@@ -1,4 +1,4 @@
-Driver Drowsiness Detection
+**Driver Drowsiness Detection**
 
 **Technologies** 
 Flask · OpenCV · Keras (CNN)
